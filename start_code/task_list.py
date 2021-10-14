@@ -1,4 +1,4 @@
-from output import *
+from modules.output import *
 
 tasks = [
     { "description": "Wash Dishes", "completed": False, "time_taken": 10 },
